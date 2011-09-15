@@ -27,7 +27,7 @@
   </modules>
 
   <properties>
-    <scala.version>2.9.0-1</scala.version>
+    <scala.version>2.9.1</scala.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
@@ -64,8 +64,8 @@
     </dependency>
     <dependency>
       <groupId>org.scala-tools.testing</groupId>
-      <artifactId>specs_2.9.0-1</artifactId>
-      <version>1.6.8</version>
+      <artifactId>specs_2.9.1</artifactId>
+      <version>1.6.9</version>
       <scope>test</scope>
     </dependency>
     <dependency>

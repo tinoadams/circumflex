@@ -10,3 +10,8 @@ nohup.out
 *.db
 circumflex-orm/lib
 
+.project
+.settings/
+.classpath
+.scala_dependencies
+
